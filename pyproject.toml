@@ -1,0 +1,12 @@
+[project]
+name = "google-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gemma>=3.0.2",
+    "google-adk>=1.0.0",
+    "jax>=0.6.1",
+]
